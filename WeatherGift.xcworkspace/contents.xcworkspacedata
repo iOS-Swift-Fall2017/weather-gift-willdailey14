@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/willdailey14/Dropbox/Swift/WeatherGift/WeatherGift/HourlyWeatherCell.swift">
+   </FileRef>
+   <FileRef
       location = "group:WeatherGift.xcodeproj">
    </FileRef>
    <FileRef
